@@ -1,0 +1,7 @@
+/.python-version
+/BA POC Code.txt
+/ba_deep_agent_v2
+/deep-agent/.langgraph_api
+/deep-agent/.env
+*/__pycache__/
+*.pyc
