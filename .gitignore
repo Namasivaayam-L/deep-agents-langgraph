@@ -5,3 +5,4 @@
 /deep-agent/.env
 */__pycache__/
 *.pyc
+deep-agent/ba_deep_agent_v2.egg-info/
