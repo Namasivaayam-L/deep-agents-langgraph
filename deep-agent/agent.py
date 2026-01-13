@@ -67,7 +67,7 @@ _all_tools = [
 agent = create_deep_agent(
     model=_model,
     system_prompt=formatted_prompt,
-    subagents=skill_subagents,
+    # subagents=skill_subagents,
     tools=_all_tools,
 )
 
